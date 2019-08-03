@@ -14,4 +14,3 @@ class App < Sinatra::Base
     erb :‘pirates/show’
   end
 end
-end
